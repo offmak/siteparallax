@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:ital,wght@1,700&family=Spline+Sans:wght@600&display=swap');
+body {
+  margin: 0;
+}
+html,
+body,
+#root {
+  height: 100%;
+  background: #110C1F;
+}
